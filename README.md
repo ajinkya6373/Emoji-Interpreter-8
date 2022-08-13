@@ -1,2 +1,3 @@
 # Emoji-Interpreter-8
-Created with CodeSandbox
+Tech stack
+-React
